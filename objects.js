@@ -1,0 +1,1 @@
+var playlist = { Ed Sheeran: 'Castle On The Hill' }
