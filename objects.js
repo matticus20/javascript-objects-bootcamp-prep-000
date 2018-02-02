@@ -1,1 +1,5 @@
-var playlist = { Ed Sheeran: 'Castle On The Hill' }
+var playlist = { Ed_Sheeran: 'Castle On The Hill' };
+
+function updatePlaylist(playlist, artist, title) {
+  
+}
